@@ -71,7 +71,7 @@
 <layer number="121" name="_tsilk" color="7" fill="1" visible="no" active="yes"/>
 <layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="yes"/>
 <layer number="125" name="_tGraphics" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="126" name="_bGraphics" color="7" fill="1" visible="no" active="yes"/>
+<layer number="126" name="_bGraphics" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="127" name="127bmp" color="1" fill="10" visible="no" active="yes"/>
 <layer number="144" name="Drill_legend" color="7" fill="1" visible="no" active="yes"/>
 <layer number="151" name="HeatSink" color="7" fill="1" visible="no" active="yes"/>
